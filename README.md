@@ -7,12 +7,13 @@ The sequence ends with a **final full-screen image** and fading text animations 
 ---
 
 ## 📸 Preview
-![Project Preview](#) <!-- Add your project screenshot here -->
+<img width="1920" height="892" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/779622bc-b4c8-4be9-83c5-959f6f529c1a" />
 
 ---
 
 ## 🔗 Live Demo
-[View Project Here](#) <!-- Replace # with your live link -->
+[View Project Here](https://sohamgoswami07.github.io/ScrollScape/)
+[Inspired From KAITO NOTE](https://kaitonote.com/)
 
 ---
 
@@ -46,7 +47,7 @@ The sequence ends with a **final full-screen image** and fading text animations 
 1. Clone this repository  
    ```bash
    git clone https://github.com/sohamgoswami07/ScrollScape.git
-````
+   ```
 
 2. Install dependencies
 
