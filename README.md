@@ -12,7 +12,8 @@ The sequence ends with a **final full-screen image** and fading text animations 
 ---
 
 ## 🔗 Live Demo
-[View Project Here](https://sohamgoswami07.github.io/ScrollScape/)
+[View Project Here](https://sohamgoswami07.github.io/ScrollScape/)  
+  
 [Inspired From KAITO NOTE](https://kaitonote.com/)
 
 ---
@@ -67,5 +68,3 @@ The sequence ends with a **final full-screen image** and fading text animations 
 
 This project is licensed under the MIT License.
 Feel free to use and modify it for your own projects.
-
-```
