@@ -2,7 +2,9 @@
 
 A visually engaging **scroll-driven image gallery** built with **HTML, CSS, and JavaScript (GSAP + Lenis)**.  
 As you scroll, images animate into view with scaling, 3D perspective, and smooth transitions.  
-The sequence ends with a **final full-screen image** and fading text animations for intro and outro headers.
+The sequence ends with a **final full-screen image** and fading text animations for intro and outro headers.  
+  
+[Inspired From KAITO NOTE](https://kaitonote.com/)
 
 ---
 
@@ -13,8 +15,6 @@ The sequence ends with a **final full-screen image** and fading text animations 
 
 ## 🔗 Live Demo
 [View Project Here](https://sohamgoswami07.github.io/ScrollScape/)  
-  
-[Inspired From KAITO NOTE](https://kaitonote.com/)
 
 ---
 
