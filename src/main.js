@@ -36,7 +36,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const finalImg = document.querySelector('.final-img');
     const introHeader = document.querySelector('.intro-header h1');
     const outroHeader = document.querySelector('.outro-header h1');
-    // const outerSection = document.querySelector('.outer-section h1');
 
     let introHeaderSplit = SplitText.create(introHeader, { type: "words" });
     gsap.set(introHeaderSplit.words, { opacity: 1 });
@@ -86,7 +85,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const progress = self.progress;
         
         images.forEach((img, index) => {
-          const staggerDelay = index * 0.035;
+          const staggerDelay = index * 0.04;
           const scaleMultiplier = isMobile ? 4 : 2;
 
           let imageProgress = Math.max(0, (progress - staggerDelay) * 4);
