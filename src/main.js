@@ -86,7 +86,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const progress = self.progress;
         
         images.forEach((img, index) => {
-          const staggerDelay = index * 0.02;
+          const staggerDelay = index * 0.035;
           const scaleMultiplier = isMobile ? 4 : 2;
 
           let imageProgress = Math.max(0, (progress - staggerDelay) * 4);
